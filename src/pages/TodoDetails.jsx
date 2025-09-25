@@ -1,7 +1,7 @@
 import React from "react";
 
-function TodoDetails() {
-  return <div>TodoDetails</div>;
+function TodoDetail() {
+  return <div>TodoDetail</div>;
 }
 
-export default TodoDetails;
+export default TodoDetail;
